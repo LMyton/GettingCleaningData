@@ -4,7 +4,8 @@
 
 This data set is produced by running the run_analyis.R script.
 
-It contains a summary of the measurement data contained in the original files:  
+It contains a summary of the measurement data contained in the original files. The included variables
+have been grouped by subject and activity and the mean determined of each variable:  
 
  * Original units of measurement  
  Acceleration varaibles (Acc) : Standard gravity units 'g'    
